@@ -1,0 +1,20 @@
+body
+{
+color:darksalmon;
+background-color: gold;
+}
+.heading
+{
+    width:80%;
+    font: size 22px;
+}
+.name_of_objects,#result_object_name,#result_name_accuracy
+{
+    color : purple ;
+}
+#camera
+{
+    border:2px solid plum;
+    height: 300px;
+    width: 350px;
+}
